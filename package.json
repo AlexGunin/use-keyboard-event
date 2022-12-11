@@ -1,0 +1,23 @@
+{
+  "name": "use-keyboard-event",
+  "version": "0.0.1",
+  "description": "The hook for React abstracting interaction with the keyboard",
+  "main": "index.tsx",
+  "scripts": {},
+  "keywords": [
+    "React",
+    "hook",
+    "keyboard"
+  ],
+  "author": "alex_gunin",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
+  "dependencies": {
+    "keyboard_controller": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.26"
+  }
+}
